@@ -1,0 +1,13 @@
+Customer_ID,Customer_Name,Product,Category,Price,Quantity,Discount
+101,Raj,Laptop,Electronics,60000,1,10
+102,Priya,Phone,Electronics,30000,2,5
+103,Amit,Shoes,Fashion,2500,2,15
+101,Raj,Mouse,Electronics,800,3,0
+104,Sneha,Watch,Fashion,4000,1,20
+105,Ravi,Laptop,Electronics,60000,1,10
+102,Priya,Headphones,Electronics,2000,2,5
+106,John,T-shirt,Fashion,1000,4,10
+103,Amit,Shoes,Fashion,2500,1,15
+107,Anjali,Phone,Electronics,30000,1,5
+108,Kiran,Book,Education,500,5,0
+101,Raj,Laptop,Electronics,60000,1,10
